@@ -1,0 +1,77 @@
+.casesContainer {
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.casesContainer h1 {
+    font-size: 3em;
+}
+
+.case {
+    display: flex;
+    flex-direction: column;
+    margin-top: 150px;
+    margin-left: 30px;
+}
+
+.case h5 {
+    text-align: center;
+    width: 200px;
+    height: auto;
+    font-size: 2em;
+    margin-right: 20px;
+}
+
+.case p {
+    font-size: 1.5em;
+    display: flex;
+    align-items: center;
+    width: auto;
+    height: auto;
+}
+
+.name {
+    background-color: #F4F2EE;
+}
+
+.course {
+    background-color: #DCC2B6;
+}
+
+.offer {
+    background-color: #CED8D0;
+}
+
+.scholarship {
+    background-color: #DDE1E3;
+}
+
+.name,
+.course,
+.offer,
+.scholarship {
+    display: grid;
+    grid-template-columns: auto 1fr;
+}
+
+.name h5,
+.course h5,
+.offer h5,
+.scholarship h5 {
+    font-family: 'Hiragino Sans GB', 'Hiragino Kaku Gothic Pro', 'Meiryo';
+}
+
+.name p,
+.course p,
+.offer p,
+.scholarship p,
+.recommendation p {
+    font-size: 1.5em;
+    font-family: 'SimSun', 'NSimSun', 'Songti SC', 'STSong', serif;
+}
+
+.recommendation {
+    margin: 50px;
+}

@@ -1,4 +1,9 @@
-.container {
+.temp {
   max-width: 1080px;
-  margin: 20px auto;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }

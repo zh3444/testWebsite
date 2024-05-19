@@ -1,0 +1,72 @@
+.teamContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.member {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.member p {
+    font-family: 'SimSun', 'NSimSun', 'Songti SC', 'STSong';
+    font-size: 1.2em;
+}
+
+.circle-bg {
+    display: flex;
+    background-color: #f0f0f0;
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+}
+
+.circle-bg img {
+    width: 300px;
+    height: auto;
+}
+
+.member p {
+    margin-top: 10px;
+}
+
+.awards {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5em;
+}
+
+.icon1 {
+    margin-right: 60px;
+}
+
+.icon2 {
+    margin-top: 150px;
+    margin-left: 20px;
+}
+
+.icon3,
+.icon5 {
+    margin-top: 180px;
+}
+
+.icon4 {
+    margin-top: 200px;
+    margin-left: 40px;
+}
+
+.icon6 {
+    margin-top: 200px;
+    margin-right: 30px;
+}
