@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/RVwebsite/static/css/main.cd500868.css",
+    "main.js": "/RVwebsite/static/js/main.d193a1a9.js",
+    "static/js/453.63261c35.chunk.js": "/RVwebsite/static/js/453.63261c35.chunk.js",
+    "static/media/applyProcess.png": "/RVwebsite/static/media/applyProcess.8b245dce64d64a584244.png",
+    "static/media/rvLogo.png": "/RVwebsite/static/media/rvLogo.b4e41f1907c0b49bed40.png",
+    "static/media/icon7.jpg": "/RVwebsite/static/media/icon7.ac5dc21a483e38ac1019.jpg",
+    "static/media/icon5.png": "/RVwebsite/static/media/icon5.c7ad54bb7e12816d54b5.png",
+    "static/media/icon4.png": "/RVwebsite/static/media/icon4.695b1c2ad8cc914e937d.png",
+    "static/media/icon3.png": "/RVwebsite/static/media/icon3.35e46105c43d85ae328a.png",
+    "static/media/icon6.png": "/RVwebsite/static/media/icon6.739d8d7b25a7fa4de469.png",
+    "static/media/icon1.png": "/RVwebsite/static/media/icon1.e0e5f170199eb32ef8b0.png",
+    "static/media/contactInfo.png": "/RVwebsite/static/media/contactInfo.de9f3a46c6bbf3e8df52.png",
+    "static/media/icon2.png": "/RVwebsite/static/media/icon2.909e4d3ce7bb784b293c.png",
+    "static/media/slick.svg": "/RVwebsite/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/RVwebsite/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/RVwebsite/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/RVwebsite/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/RVwebsite/index.html",
+    "main.cd500868.css.map": "/RVwebsite/static/css/main.cd500868.css.map",
+    "main.d193a1a9.js.map": "/RVwebsite/static/js/main.d193a1a9.js.map",
+    "453.63261c35.chunk.js.map": "/RVwebsite/static/js/453.63261c35.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd500868.css",
+    "static/js/main.d193a1a9.js"
+  ]
+}
