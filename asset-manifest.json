@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/RVwebsite/static/css/main.cd500868.css",
-    "main.js": "/RVwebsite/static/js/main.d193a1a9.js",
+    "main.js": "/RVwebsite/static/js/main.b74e2e57.js",
     "static/js/453.63261c35.chunk.js": "/RVwebsite/static/js/453.63261c35.chunk.js",
     "static/media/applyProcess.png": "/RVwebsite/static/media/applyProcess.8b245dce64d64a584244.png",
     "static/media/rvLogo.png": "/RVwebsite/static/media/rvLogo.b4e41f1907c0b49bed40.png",
@@ -19,11 +19,11 @@
     "static/media/slick.woff": "/RVwebsite/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/RVwebsite/index.html",
     "main.cd500868.css.map": "/RVwebsite/static/css/main.cd500868.css.map",
-    "main.d193a1a9.js.map": "/RVwebsite/static/js/main.d193a1a9.js.map",
+    "main.b74e2e57.js.map": "/RVwebsite/static/js/main.b74e2e57.js.map",
     "453.63261c35.chunk.js.map": "/RVwebsite/static/js/453.63261c35.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd500868.css",
-    "static/js/main.d193a1a9.js"
+    "static/js/main.b74e2e57.js"
   ]
 }
